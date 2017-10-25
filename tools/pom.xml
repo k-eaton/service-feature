@@ -71,6 +71,11 @@
       <artifactId>feature-client</artifactId>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>23.2-jre</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>

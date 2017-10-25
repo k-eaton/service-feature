@@ -1,0 +1,3 @@
+org\nmdp\service\feature\service\impl\FeatureServiceModule.class
+org\nmdp\service\feature\service\impl\FeatureServiceImpl$SequencesToFeatures.class
+org\nmdp\service\feature\service\impl\FeatureServiceImpl.class

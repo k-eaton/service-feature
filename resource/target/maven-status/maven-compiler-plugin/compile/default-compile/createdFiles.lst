@@ -1,0 +1,7 @@
+org\nmdp\service\feature\resource\FeatureResource.class
+org\nmdp\service\feature\resource\UserInputExceptionMapper$1.class
+org\nmdp\service\feature\resource\UserInputExceptionMapper.class
+org\nmdp\service\feature\resource\ExceptionMapperModule.class
+org\nmdp\service\feature\resource\FeatureMixIn.class
+org\nmdp\service\feature\resource\UserInputException.class
+org\nmdp\service\feature\resource\FeatureRequest.class

@@ -1,0 +1,3 @@
+org\nmdp\service\feature\resource\FeatureMixInTest.class
+org\nmdp\service\feature\resource\FeatureRequestTest.class
+org\nmdp\service\feature\resource\FeatureResourceTest.class

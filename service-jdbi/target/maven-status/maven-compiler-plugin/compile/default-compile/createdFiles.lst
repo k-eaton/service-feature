@@ -1,0 +1,4 @@
+org\nmdp\service\feature\service\jdbi\FeatureDao.class
+org\nmdp\service\feature\service\jdbi\FeatureMapper.class
+org\nmdp\service\feature\service\jdbi\JdbiFeatureService.class
+org\nmdp\service\feature\service\jdbi\JdbiFeatureServiceModule.class
